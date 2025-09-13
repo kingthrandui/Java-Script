@@ -1,6 +1,6 @@
 /*                                                  DATATYPES SUMMARY
 ================================================================================
-1. Primitive Datatypes:
+1. Primitive Datatypes(stack memory):
    - Number: Represents both integer and floating-point numbers.
    - String: Represents a sequence of characters.
    - Boolean: Represents a logical entity and can have two values: true or false.
@@ -9,7 +9,7 @@
    - Symbol: Represents a unique identifier, often used as object property keys.
    - BigInt: Represents integers with arbitrary precision, allowing for the representation of very large numbers.
 
-2. Non-Primitive Datatypes 0r Reference Datatypes:
+2. Non-Primitive Datatypes 0r Reference Datatypes(heap memory):
    - Object: A collection of properties, where each property is defined as a key-value pair.
    - Array: A special type of object used to store ordered collections of values.
    - Function: A callable object that encapsulates a block of code to be executed.
