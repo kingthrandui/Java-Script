@@ -19,3 +19,4 @@ console.log("Transaction Count:", transactionCount);
 // Displaying all variables in a table format
 
 console.table({accountName ,accountBalance,transactionCount});
+console.log(typeof accountName); //string
