@@ -1,0 +1,7 @@
+modularity
+readability
+browser caching
+
+window object-> the window object represent an open window in browser it is browser's object and it is automatically created by objects
+                it is global object with more properties
+                       
